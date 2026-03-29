@@ -9,3 +9,15 @@ We overestimated AI in the short term and are now lurching, unprepared, into the
 - Simulating sociological and economic scenarios to model how communities adapt — or fail to — as automation displaces cognitive labor
 - Generating accessible explanations of complex psychological phenomena (Dunning-Kruger, motivated reasoning) to improve public AI literacy
 - Drafting policy frameworks that account for the uneven distribution of AI's benefits and burdens across socioeconomic strata
+
+
+
+=================================================
+//PROMPT:
+Create content for the file assistant_draft.md.
+The file should contain:
+a short title
+one short paragraph introducing me as a mawkish chagrin filled student feebly commanding an entity far greater than me.
+one short paragraph describing AI integration within all aspects of society as it relates to amaras law, the dunner-kruger effect, and the general psychological, sociological, and socioeconomical effects on peoples cognitive functioning and what it means to possess qualia
+one short bullet list of 3 ways generative AI might be useful in that area
+
