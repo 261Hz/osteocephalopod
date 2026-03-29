@@ -13,6 +13,7 @@ We overestimated AI in the short term and are now lurching, unprepared, into the
 
 
 ====================================
+
 //PROMPT:
 Create content for the file assistant_draft.md.
 The file should contain:
