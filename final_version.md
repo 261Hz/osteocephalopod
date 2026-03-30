@@ -16,3 +16,14 @@ I am keeping the above suggestions by the assistant because the last two may hol
 
 ====================================
 
+// what I changed:
+
+clarified abstract ideas.
+
+// changed because:
+
+I wanted to emphasize my true reflection on the subject. Albeit I didn't fully revise...
+
+// didn't want to keep as is:
+
+the usage of mawkish, I believe the assistant did not fully understand what I meant in the prompt. 
