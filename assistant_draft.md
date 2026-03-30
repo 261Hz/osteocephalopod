@@ -22,3 +22,17 @@ one short paragraph introducing me as a mawkish chagrin filled student feebly co
 one short paragraph describing AI integration within all aspects of society as it relates to amaras law, the dunner-kruger effect, and the general psychological, sociological, and socioeconomical effects on peoples cognitive functioning and what it means to possess qualia
 one short bullet list of 3 ways generative AI might be useful in that area
 
+====================================
+
+//assistant:
+
+The assistant successfully expressed (within the constraints of the given prompt) the evocative existential self depreciation I was hoping for in its description of my sense of self. 
+
+Also given the curt restrictions on length it likewise succeeded in describing the philosophical concepts cohesively. 
+
+====================================
+
+//adjustments:
+
+
+There are portions of the middle paragraph that are vague as well as the entire use case of AI - these are areas where adjustments are needed.
