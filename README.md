@@ -30,3 +30,7 @@ A basic repo demo setup including the following files:
 |/
 * 47d4e2e [261Hz]   Initial commit
 ```
+
+# Git Steps Used
+
+Include merging files populated by assistant to main branch, editing, initial setup, updates.
